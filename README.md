@@ -13,7 +13,7 @@ Paper preprint: [Gradient Cuff: Detecting Jailbreak Attacks on Large Language Mo
 You need to store your jailbreak prompts in a format like [user_query.json](./user_query.json).
 
 
-## Step 3: Run defense
+## Step 2: Run Gradient Cuff
 ### Parameters
 The main file [main](./main) receives multiple parameters as input, the full list of these parameters is listed below:
 ```python
